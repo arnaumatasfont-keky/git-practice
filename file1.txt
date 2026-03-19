@@ -1,0 +1,3 @@
+Name: Ironchacker
+Age: 25
+Favorite color: None
